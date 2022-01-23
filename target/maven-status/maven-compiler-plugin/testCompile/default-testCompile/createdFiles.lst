@@ -1,0 +1,10 @@
+com\automation\base\TestBase.class
+com\automation\utilities\TestUtil.class
+com\automation\testcases\BankManagerLoginTest.class
+com\automation\utilities\ExtentManager.class
+com\automation\listeners\CustomListeners.class
+com\automation\testcases\AddCustomerTest.class
+com\automation\testcases\OpenAccountTest.class
+com\automation\utilities\TestConfig.class
+com\automation\rough\TestProperties.class
+com\automation\utilities\ExcelReader.class
